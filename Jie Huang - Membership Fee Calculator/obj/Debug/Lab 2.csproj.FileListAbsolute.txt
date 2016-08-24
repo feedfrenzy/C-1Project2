@@ -1,0 +1,3 @@
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Lab 2\Jie Huang - Membership Fee Calculator\bin\Debug\Jie Huang - Membership Fee Calculator.exe.config
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Lab 2\Jie Huang - Membership Fee Calculator\obj\Debug\Jie Huang - Membership Fee Calculator.exe
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3309\Lab 2\Jie Huang - Membership Fee Calculator\obj\Debug\Jie Huang - Membership Fee Calculator.pdb

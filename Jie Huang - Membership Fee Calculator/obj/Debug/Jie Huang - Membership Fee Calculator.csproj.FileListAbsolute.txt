@@ -1,0 +1,9 @@
+c:\users\jie\documents\visual studio 2012\Projects\Jie Huang - Membership Fee Calculator\Jie Huang - Membership Fee Calculator\bin\Debug\Jie Huang - Membership Fee Calculator.exe.config
+c:\users\jie\documents\visual studio 2012\Projects\Jie Huang - Membership Fee Calculator\Jie Huang - Membership Fee Calculator\bin\Debug\Jie Huang - Membership Fee Calculator.exe
+c:\users\jie\documents\visual studio 2012\Projects\Jie Huang - Membership Fee Calculator\Jie Huang - Membership Fee Calculator\bin\Debug\Jie Huang - Membership Fee Calculator.pdb
+c:\users\jie\documents\visual studio 2012\Projects\Jie Huang - Membership Fee Calculator\Jie Huang - Membership Fee Calculator\obj\Debug\Jie Huang - Membership Fee Calculator.csprojResolveAssemblyReference.cache
+c:\users\jie\documents\visual studio 2012\Projects\Jie Huang - Membership Fee Calculator\Jie Huang - Membership Fee Calculator\obj\Debug\Jie_Huang___Membership_Fee_Calculator.frmMFC.resources
+c:\users\jie\documents\visual studio 2012\Projects\Jie Huang - Membership Fee Calculator\Jie Huang - Membership Fee Calculator\obj\Debug\Jie_Huang___Membership_Fee_Calculator.Properties.Resources.resources
+c:\users\jie\documents\visual studio 2012\Projects\Jie Huang - Membership Fee Calculator\Jie Huang - Membership Fee Calculator\obj\Debug\Jie Huang - Membership Fee Calculator.csproj.GenerateResource.Cache
+c:\users\jie\documents\visual studio 2012\Projects\Jie Huang - Membership Fee Calculator\Jie Huang - Membership Fee Calculator\obj\Debug\Jie Huang - Membership Fee Calculator.exe
+c:\users\jie\documents\visual studio 2012\Projects\Jie Huang - Membership Fee Calculator\Jie Huang - Membership Fee Calculator\obj\Debug\Jie Huang - Membership Fee Calculator.pdb
